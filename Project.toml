@@ -1,0 +1,6 @@
+authors = ["emerson "]
+name = "CalculoNumerico"
+uuid = "dacbc0e6-95f0-11ea-07de-eba1284124b1"
+version = "0.1.0"
+
+[deps]
